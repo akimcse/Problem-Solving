@@ -1,4 +1,4 @@
-// 240329
+// 240402
 // https://www.hackerrank.com/challenges/mini-max-sum
 
 #include <bits/stdc++.h>
