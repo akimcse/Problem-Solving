@@ -19,7 +19,7 @@ string timeConversion(string s) {
     if(s[8] == 'P'){
         string hour = s.substr(0,2);
         int new_hour = stoi(hour) + 12;
-        if(new_hour == 24) new_hour_time == "12";
+        if(new_hour == 24) new_hour_time = "12";
         else new_hour_time = to_string(new_hour);
         string military = s.replace(0, 2, new_hour_time);
         output = military.erase(8,2);
