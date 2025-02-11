@@ -1,4 +1,6 @@
 # Problem-Solving
 Problem Solving with C++
 
-with https://www.hackerrank.com
+- https://www.hackerrank.com
+- https://leetcode.com/studyplan/top-interview-150
+- https://leetcode.com/studyplan/leetcode-75
